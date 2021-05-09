@@ -13,7 +13,7 @@ A personal project to learn how to work with animations using pseudo-elements, i
 ## Project:
 
 <p align="center">
-  <img src="animated-card.gif" width="800px">
+  <img src="animated-card.gif" width="700px">
 </p>
 
 ## Technologies
