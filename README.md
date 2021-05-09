@@ -13,7 +13,7 @@ A personal project to learn how to work with animations using pseudo-elements, i
 ## Project:
 
 <p align="center">
-  <img src="video.gif" width="800px">
+  <img src="animated-card.gif" width="800px">
 </p>
 
 ## Technologies
@@ -23,5 +23,5 @@ A personal project to learn how to work with animations using pseudo-elements, i
 [![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&labelColor=black)](https://github.com/JuniorMacedo91)
 
 ## Check out the Web Page:
-
+https://juniormacedo91.github.io/animated-card/
 
