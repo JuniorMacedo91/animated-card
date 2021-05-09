@@ -7,8 +7,10 @@ A personal project to learn how to work with animations using pseudo-elements, i
 ## Techniques:
 
  - [x] Pseudo-element - "::" Used to style a specifield part of an element;
- - [x] Glassmorphism - To turn into a glass effect you must use box-shadow;
+ - [x] Glassmorphism - To turn into a glass effect you must use box-shadow and background-color;
  - [x] Hover - Show an animation when you mouse over it;
+ - [x] Transition - A specifield function to set time for animation;
+ - [x] Transform - To set rotation, scale and more;
 
 ## Project:
 
